@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "rsync -av --update /current directory/*.html /root/"
+cp -u *.html
