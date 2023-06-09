@@ -1,2 +1,2 @@
 #!/bin/bash
--type d chmod -R u+rx,o+rx,g+rx
+-type d chmod -R +X
